@@ -2,6 +2,8 @@
 
 Quickly open a new Finder window, like `⌘E` on Windows.
 
+https://github.com/user-attachments/assets/83b06b18-3db2-4292-b248-99b5ba3fce35
+
 ## Usage
 
 1. [Download the Shortcut file](./New%20Finder%20Window.shortcut)
