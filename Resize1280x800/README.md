@@ -4,8 +4,6 @@ A simple Mac Shortcut to quickly resize windows to specific dimensions. Especial
 
 <https://github.com/user-attachments/assets/f260c34c-bc6e-4836-84de-556ae8b1f511>
 
-![Download](./Resize1280x800.shortcut)
-
 ## Features
 
 - Quickly resize the active window to preset dimensions
@@ -14,7 +12,7 @@ A simple Mac Shortcut to quickly resize windows to specific dimensions. Especial
 
 ## Installation
 
-1. Download the Shortcut file from this repository
+1. [Download the Shortcut file](./Resize1280x800.shortcut)
 2. Double-click to open and import it to your Mac
 3. Customize the size settings as needed
 4. Add the Shortcut to your Dock or set a global keyboard shortcut
